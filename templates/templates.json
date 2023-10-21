@@ -682,6 +682,14 @@
       "categories": [
         "Grids"
       ]
+    },
+    {
+      "name": "Chinese Grid",
+      "filename": "custom/Chinese_Grid",
+      "iconCode": "\ue99d",
+      "categories": [
+        "Grids"
+      ]
     }
   ]
 }
